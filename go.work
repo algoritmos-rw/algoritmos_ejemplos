@@ -1,0 +1,8 @@
+go 1.22
+
+use (
+	./demos/arboles
+	./demos/cientifico
+	./demos/iteradores_listas
+	./tdas
+)
