@@ -23,3 +23,8 @@ go.work
 tdas/*
 .DS_STORE
 .idea/*
+cola.py
+pila.py
+heap.py
+grafo.py
+
