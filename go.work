@@ -4,5 +4,7 @@ use (
 	./demos/arboles
 	./demos/cientifico
 	./demos/iteradores_listas
+	./demos/interfaces
 	./tdas
+	./demos/dyc111000
 )
